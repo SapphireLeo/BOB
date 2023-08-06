@@ -1,0 +1,501 @@
+{
+   "plus_code" : {
+      "compound_code" : "HX8H+J59 대한민국 서울특별시",
+      "global_code" : "8Q98HX8H+J59"
+   },
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "서울특별시",
+               "short_name" : "서울특별시",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "대한민국",
+               "short_name" : "KR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "90, Pilun-dong, Jongno-gu, 서울특별시 대한민국",
+         "geometry" : {
+            "location" : {
+               "lat" : 37.566536,
+               "lng" : 126.977966
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 37.5678849802915,
+                  "lng" : 126.9793149802915
+               },
+               "southwest" : {
+                  "lat" : 37.5651870197085,
+                  "lng" : 126.9766170197085
+               }
+            }
+         },
+         "place_id" : "ChIJN2x0fu2ifDUR8cJcLZV9_Dg",
+         "plus_code" : {
+            "compound_code" : "HX8H+J5 대한민국 서울특별시",
+            "global_code" : "8Q98HX8H+J5"
+         },
+         "types" : [ "establishment", "point_of_interest", "real_estate_agency" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "110",
+               "short_name" : "110",
+               "types" : [ "premise" ]
+            },
+            {
+               "long_name" : "세종대로",
+               "short_name" : "세종대로",
+               "types" : [ "political", "sublocality", "sublocality_level_4" ]
+            },
+            {
+               "long_name" : "중구",
+               "short_name" : "중구",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "서울특별시",
+               "short_name" : "서울특별시",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "대한민국",
+               "short_name" : "KR",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "04524",
+               "short_name" : "04524",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "대한민국 서울특별시 중구 세종대로 110",
+         "geometry" : {
+            "location" : {
+               "lat" : 37.5665851,
+               "lng" : 126.9782038
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 37.56793408029149,
+                  "lng" : 126.9795527802915
+               },
+               "southwest" : {
+                  "lat" : 37.5652361197085,
+                  "lng" : 126.9768548197085
+               }
+            }
+         },
+         "place_id" : "ChIJ81IZg_KifDURyA2TiacuQ3w",
+         "plus_code" : {
+            "compound_code" : "HX8H+J7 대한민국 서울특별시",
+            "global_code" : "8Q98HX8H+J7"
+         },
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "HX8H+J5",
+               "short_name" : "HX8H+J5",
+               "types" : [ "plus_code" ]
+            },
+            {
+               "long_name" : "서울특별시",
+               "short_name" : "서울특별시",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "\ub300\ud55c\ubbfc\uad6d",
+               "short_name" : "KR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "HX8H+J5 \ub300\ud55c\ubbfc\uad6d \uc11c\uc6b8\ud2b9\ubcc4\uc2dc",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 37.566625,
+                  "lng" : 126.978
+               },
+               "southwest" : {
+                  "lat" : 37.5665,
+                  "lng" : 126.977875
+               }
+            },
+            "location" : {
+               "lat" : 37.566535,
+               "lng" : 126.977969
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 37.5679114802915,
+                  "lng" : 126.9792864802915
+               },
+               "southwest" : {
+                  "lat" : 37.5652135197085,
+                  "lng" : 126.9765885197085
+               }
+            }
+         },
+         "place_id" : "GhIJCoUIOITIQkARHuBJC5e-X0A",
+         "plus_code" : {
+            "compound_code" : "HX8H+J5 \ub300\ud55c\ubbfc\uad6d \uc11c\uc6b8\ud2b9\ubcc4\uc2dc",
+            "global_code" : "8Q98HX8H+J5"
+         },
+         "types" : [ "plus_code" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "\ud0dc\ud3c9\ub85c1\uac00",
+               "short_name" : "\ud0dc\ud3c9\ub85c1\uac00",
+               "types" : [ "political", "sublocality", "sublocality_level_2" ]
+            },
+            {
+               "long_name" : "\uc911\uad6c",
+               "short_name" : "\uc911\uad6c",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "\uc11c\uc6b8\ud2b9\ubcc4\uc2dc",
+               "short_name" : "\uc11c\uc6b8\ud2b9\ubcc4\uc2dc",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "\ub300\ud55c\ubbfc\uad6d",
+               "short_name" : "KR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "\ub300\ud55c\ubbfc\uad6d \uc11c\uc6b8\ud2b9\ubcc4\uc2dc \uc911\uad6c \ud0dc\ud3c9\ub85c1\uac00",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 37.5694861,
+                  "lng" : 126.9792094
+               },
+               "southwest" : {
+                  "lat" : 37.5656401,
+                  "lng" : 126.9755237
+               }
+            },
+            "location" : {
+               "lat" : 37.56770180000001,
+               "lng" : 126.9772803
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 37.5694861,
+                  "lng" : 126.9792094
+               },
+               "southwest" : {
+                  "lat" : 37.5656401,
+                  "lng" : 126.9755237
+               }
+            }
+         },
+         "place_id" : "ChIJxwtWbO2ifDURj4QrUWrqv2U",
+         "types" : [ "political", "sublocality", "sublocality_level_2" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "\uc138\uc885\ub300\ub85c",
+               "short_name" : "\uc138\uc885\ub300\ub85c",
+               "types" : [ "political", "sublocality", "sublocality_level_4" ]
+            },
+            {
+               "long_name" : "\uc911\uad6c",
+               "short_name" : "\uc911\uad6c",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "\uc11c\uc6b8\ud2b9\ubcc4\uc2dc",
+               "short_name" : "\uc11c\uc6b8\ud2b9\ubcc4\uc2dc",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "\ub300\ud55c\ubbfc\uad6d",
+               "short_name" : "KR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "\ub300\ud55c\ubbfc\uad6d \uc11c\uc6b8\ud2b9\ubcc4\uc2dc \uc911\uad6c \uc138\uc885\ub300\ub85c",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 37.5689814,
+                  "lng" : 126.9782607
+               },
+               "southwest" : {
+                  "lat" : 37.5568566,
+                  "lng" : 126.9723452
+               }
+            },
+            "location" : {
+               "lat" : 37.563054,
+               "lng" : 126.9755254
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 37.5689814,
+                  "lng" : 126.9782607
+               },
+               "southwest" : {
+                  "lat" : 37.5568566,
+                  "lng" : 126.9723452
+               }
+            }
+         },
+         "place_id" : "ChIJXwA5qoyifDUREyhKPjwY4Ek",
+         "types" : [ "political", "sublocality", "sublocality_level_4" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "\uba85\ub3d9",
+               "short_name" : "\uba85\ub3d9",
+               "types" : [ "political", "sublocality", "sublocality_level_2" ]
+            },
+            {
+               "long_name" : "\uc911\uad6c",
+               "short_name" : "\uc911\uad6c",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "\uc11c\uc6b8\ud2b9\ubcc4\uc2dc",
+               "short_name" : "\uc11c\uc6b8\ud2b9\ubcc4\uc2dc",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "\ub300\ud55c\ubbfc\uad6d",
+               "short_name" : "KR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "대한민국 서울특별시 중구 명동",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 37.5693753,
+                  "lng" : 126.9908454
+               },
+               "southwest" : {
+                  "lat" : 37.5537278,
+                  "lng" : 126.9733139
+               }
+            },
+            "location" : {
+               "lat" : 37.55998,
+               "lng" : 126.9858296
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 37.5693753,
+                  "lng" : 126.9908454
+               },
+               "southwest" : {
+                  "lat" : 37.5537278,
+                  "lng" : 126.9733139
+               }
+            }
+         },
+         "place_id" : "ChIJqxQ_G_GifDURDI7jheBrQzs",
+         "types" : [ "political", "sublocality", "sublocality_level_2" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "\uc911\uad6c",
+               "short_name" : "\uc911\uad6c",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "\uc11c\uc6b8\ud2b9\ubcc4\uc2dc",
+               "short_name" : "\uc11c\uc6b8\ud2b9\ubcc4\uc2dc",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "\ub300\ud55c\ubbfc\uad6d",
+               "short_name" : "KR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "대한민국 서울특별시 중구",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 37.5720231,
+                  "lng" : 127.0267966
+               },
+               "southwest" : {
+                  "lat" : 37.5438566,
+                  "lng" : 126.9615591
+               }
+            },
+            "location" : {
+               "lat" : 37.5601443,
+               "lng" : 126.9959649
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 37.5720231,
+                  "lng" : 127.0267966
+               },
+               "southwest" : {
+                  "lat" : 37.5438566,
+                  "lng" : 126.9615591
+               }
+            }
+         },
+         "place_id" : "ChIJm_WhU_yifDURF56eaO5Ufl8",
+         "types" : [ "political", "sublocality", "sublocality_level_1" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "\uc11c\uc6b8\ud2b9\ubcc4\uc2dc",
+               "short_name" : "\uc11c\uc6b8\ud2b9\ubcc4\uc2dc",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "\uc11c\uc6b8\ud2b9\ubcc4\uc2dc",
+               "short_name" : "\uc11c\uc6b8\ud2b9\ubcc4\uc2dc",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "\ub300\ud55c\ubbfc\uad6d",
+               "short_name" : "KR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "\ub300\ud55c\ubbfc\uad6d \uc11c\uc6b8\ud2b9\ubcc4\uc2dc",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 37.7014549,
+                  "lng" : 127.1837949
+               },
+               "southwest" : {
+                  "lat" : 37.4282973,
+                  "lng" : 126.7644837
+               }
+            },
+            "location" : {
+               "lat" : 37.5518911,
+               "lng" : 126.9917937
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 37.7014549,
+                  "lng" : 127.1837949
+               },
+               "southwest" : {
+                  "lat" : 37.4282973,
+                  "lng" : 126.7644837
+               }
+            }
+         },
+         "place_id" : "ChIJzWXFYYuifDUR64Pq5LTtioU",
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "\uc11c\uc6b8\ud2b9\ubcc4\uc2dc",
+               "short_name" : "\uc11c\uc6b8\ud2b9\ubcc4\uc2dc",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "\ub300\ud55c\ubbfc\uad6d",
+               "short_name" : "KR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "\ub300\ud55c\ubbfc\uad6d \uc11c\uc6b8\ud2b9\ubcc4\uc2dc",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 37.7014549,
+                  "lng" : 127.1837949
+               },
+               "southwest" : {
+                  "lat" : 37.4282973,
+                  "lng" : 126.7644837
+               }
+            },
+            "location" : {
+               "lat" : 37.5518911,
+               "lng" : 126.9917937
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 37.7014549,
+                  "lng" : 127.1837949
+               },
+               "southwest" : {
+                  "lat" : 37.4282973,
+                  "lng" : 126.7644837
+               }
+            }
+         },
+         "place_id" : "ChIJzzlcLQGifDURm_JbQKHsEX4",
+         "types" : [ "administrative_area_level_1", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "\ub300\ud55c\ubbfc\uad6d",
+               "short_name" : "KR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "\ub300\ud55c\ubbfc\uad6d",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 38.63400000000001,
+                  "lng" : 131.1603
+               },
+               "southwest" : {
+                  "lat" : 33.0041,
+                  "lng" : 124.5863
+               }
+            },
+            "location" : {
+               "lat" : 35.907757,
+               "lng" : 127.766922
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 38.63400000000001,
+                  "lng" : 131.1603
+               },
+               "southwest" : {
+                  "lat" : 33.0041,
+                  "lng" : 124.5863
+               }
+            }
+         },
+         "place_id" : "ChIJm7oRy-tVZDURS9uIugCbJJE",
+         "types" : [ "country", "political" ]
+      }
+   ],
+   "status" : "OK"
+}
