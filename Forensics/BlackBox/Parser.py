@@ -52,7 +52,7 @@ def parse(video, size):
             raise EOFError('video file is all consumed.')
 
         # 다음 시그니처가 발견될 때까지 1바이트씩 읽는 함수 실행.
-        signature_type = find_system_signature(video, signature='system')
+        signature_type = find_system_signature(video)
 
         # 다음 프레임의 정보를 저장하기 위한 프레임 객체를 선언한다.
         new_frame = Frame()
@@ -79,7 +79,7 @@ def parse(video, size):
             for frame in frames:
                 frame.timestamp = timestamp
             # 모든 프레임들을 튜플의 형태로 변환하여 하나의 배열로 묶은 다음 반환한다.
-            return [frame.into_tuples() for frame in frames]
+            return unknown_frame_num, [frame.into_tuples() for frame in frames]
         elif signature_type == 'big footer':
             video.seek(video.tell() + 0x28)# 구조를 모르는 공간 건너뛰기
             timestamp = int.from_bytes(video.read(4), 'little')  # UNIX epoch time으로 저장된 4바이트를 읽는다.
@@ -88,10 +88,10 @@ def parse(video, size):
             for frame in frames:
                 frame.timestamp = timestamp
             # 모든 프레임들을 튜플의 형태로 변환하여 배열로 묶은 다음 반환한다.
-            return [frame.into_tuples() for frame in frames]
+            return unknown_frame_num, [frame.into_tuples() for frame in frames]
         # 만약 알려진 시그니처 이외일 경우, DCDCDCDC는 발견되었지만
         # 그 이후의 숫자가 01 또는 03이 아니라는 뜻이다.
-        # 이 경우, 손상된 데이터로 표시하고 다음 시그니처를 다시 읽는다.
+        # 이 경우, 카빙에 필요 없는 데이터로 표시하고 다음 시그니처를 다시 읽는다.
         else:
             unknown_frame_num += 1
             continue

@@ -5,20 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a06d1a7e-d1fc-4227-ae05-d1479abc2342" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Forensics/BlackBox/Carver.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Forensics/BlackBox/Parser.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Forensics/BlackBox/config.ini" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Forensics/LogTracker/CsvLogReformat.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Forensics/LogTracker/LogInserter.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Forensics/LogTracker/RuleInserter.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Forensics/LogTracker/config.ini" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Forensics/LogTracker/requirements.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Forensics/BlackBox/requirements.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Forensics/Imaging/HashFiles.py" beforeDir="false" afterPath="$PROJECT_DIR$/Forensics/Imaging/HashFiles.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Forensics/BlackBox/Carver.py" beforeDir="false" afterPath="$PROJECT_DIR$/Forensics/BlackBox/Carver.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Forensics/BlackBox/Parser.py" beforeDir="false" afterPath="$PROJECT_DIR$/Forensics/BlackBox/Parser.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Forensics/Imaging/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/Forensics/Imaging/test.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Forensics/LogTracker/LogTracer.py" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,6 +27,10 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "customColor": "",
+  "associatedIndex": 7
+}]]></component>
   <component name="ProjectId" id="2T85HbveUMt7XXNUQwhsL9vggVm" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -45,7 +41,7 @@
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/Sapphire/Documents/GitHub/BoB/Forensics/BlackBox/Carver.py&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Sapphire/Documents/GitHub/BoB&quot;,
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.fileTypes&quot;
   }
 }</component>

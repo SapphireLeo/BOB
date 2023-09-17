@@ -2,3 +2,5 @@ Digital_Investigation/country.csv
 Forensics/LogTracker/security.log
 Forensics/BlackBox/channel_0.h264
 Forensics/BlackBox/channel_1.h264
+*.mp4
+Forensics/BlackBox/video.zip

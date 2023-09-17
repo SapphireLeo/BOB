@@ -92,7 +92,7 @@ try:
     totalFrameNum = 0
     while True:
         # 카빙된 데이터는 튜플들의 리스트로 이루어져 있다. 이 데이터를 executemany로 전부 입력한 후 커밋한다.
-        carvedData = parse(video, video_size)
+        unknownFrameNum, carvedData = parse(video, video_size)
         cursor.executemany(insertSQL, carvedData)
         connection.commit()
 
@@ -100,7 +100,7 @@ try:
         totalFrameNum += len(carvedData)
 
         # 몇 번째 시간 패키지인지를 출력한다.
-        print(f'total {totalFrameNum} frames at {video.tell():08X} carved!')
+        print(f'total {totalFrameNum} frames at {video.tell():08X} carved! total unused signature: {unknownFrameNum}.')
 except EOFError as e:
     print(e)
     print('\nfile carving and database insertion is completed.')
